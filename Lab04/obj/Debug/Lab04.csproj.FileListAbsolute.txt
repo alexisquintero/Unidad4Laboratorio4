@@ -1,0 +1,6 @@
+C:\Proyectos\Unidades\Unidad04\Lab04\Lab04\bin\Debug\Lab04.exe.config
+C:\Proyectos\Unidades\Unidad04\Lab04\Lab04\bin\Debug\Lab04.exe
+C:\Proyectos\Unidades\Unidad04\Lab04\Lab04\bin\Debug\Lab04.pdb
+C:\Proyectos\Unidades\Unidad04\Lab04\Lab04\bin\Debug\MySql.Data.dll
+C:\Proyectos\Unidades\Unidad04\Lab04\Lab04\obj\Debug\Lab04.exe
+C:\Proyectos\Unidades\Unidad04\Lab04\Lab04\obj\Debug\Lab04.pdb
